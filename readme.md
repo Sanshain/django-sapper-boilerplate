@@ -4,7 +4,7 @@ Project consists of two parts:
 
 # To get started
 
-- `git clone `
+- `git clone https://github.com/Sanshain/django-sapper-boilerplate.git`
 
 To develop with this boilerplate you'll need two terminal instances
 
